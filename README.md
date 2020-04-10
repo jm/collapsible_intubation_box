@@ -37,23 +37,23 @@ In general you'll need two things:
 
 _There is a PDF with assembly instructions in the release download, but I'm providing the instructions here also for reference._
 
-![Step 1](instructions/step1.png)
+![Step 1](instructions/step1.jpg)
 
 1. Take Panel D, which is the top of the box, and slot to top of each Panel B and Panel C into it.
 
-![Step 2](instructions/step2.png)
+![Step 2](instructions/step2.jpg)
 
 2. Take a t-brace (labeled "T") and slot it into the slot sticking up on top of Panel B and Panel C to create a tight joint.  Preferably, the wider part of the t-brace should be to the inside of panel C rather than towards the exposed edge.
 
-![Step 3](instructions/step3.png)
+![Step 3](instructions/step3.jpg)
 
 3. Take Panel A (the front panel with arm holes) and slot it on to the structure with the two non-braced slots at the top and each Panel B and Panel C slotting into their respective sides.
 
-![Step 4](instructions/step4.png)
+![Step 4](instructions/step4.jpg)
 
 4. Repeat the t-bracing process, with the wider potion of the t-brace to the inside of Panel A.
 
-![Step 5](instructions/step5.png)
+![Step 5](instructions/step5.jpg)
 
 5. Intubate at will.
 
