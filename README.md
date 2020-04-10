@@ -39,7 +39,7 @@ _There is a PDF with assembly instructions in the release download, but I'm prov
 
 Each piece has a letter label, so you'll want to locate that for assembly.
 
-1. Take Panel D, which is the top of the box, and slot to top of each Panel B and Panel C into it.
+1. Take Panel D, which is the top of the box, and slot the top of each Panel B and Panel C into it.
 
 ![Step 1](instructions/step1.jpg)
 
@@ -51,7 +51,7 @@ Each piece has a letter label, so you'll want to locate that for assembly.
 
 ![Step 3](instructions/step3.jpg)
 
-4. Repeat the t-bracing process, with the wider potion of the t-brace to the inside of Panel A.
+4. Repeat the t-bracing process, with the wider portion of the t-brace to the inside of Panel A.
 
 ![Step 4](instructions/step4.jpg)
 
