@@ -75,7 +75,7 @@ To locate a local fabrication partner, look around for places that likely have a
 * Libraries (many of them have makerspaces in them these days)
 * Sign shops
 
-Simply contact them and ask if they are willing to help out.  I would imagine in most cases you can get them produced for free or very cheap, especially if you provide materials (see the bill of materials for the version you're using for what you'll need).  If you find another type of business that's willing to help out, file a pull request so I can add it here!
+Simply contact them and ask if they are willing to help out.  I would imagine in most cases you can get them produced for free or very cheap, especially if you provide materials (see the bill of materials).  If you find another type of business that's willing to help out, file a pull request so I can add it here!
 
 #### Having trouble? Let's see if we can help
 
