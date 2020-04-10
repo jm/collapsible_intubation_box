@@ -6,7 +6,7 @@ A fully open design for collapsible, no-glue aerosol/intubation boxes designed f
 
 ## Getting the design
 
-You can download the latest version of everything from [the releases page](https://github.com/jm/collasible_intubation_box/releases).
+You can download the latest version of everything from [the releases page](https://github.com/jm/collapsible_intubation_box/releases).
 
 Or you can optionally clone this repository:
 
@@ -79,13 +79,13 @@ Simply contact them and ask if they are willing to help out.  I would imagine in
 
 #### Having trouble? Let's see if we can help
 
-Go to [the Issues section](https://github.com/jm/open_intubation_box/issues) of this repository and [file a new issue](https://github.com/jm/open_intubation_box/issues/new) with your contact information, location, and how many boxes you'd need in the description.  I'm going to encourage people to look there for places to help with their needs.
+Go to [the Issues section](https://github.com/jm/collapsible_intubation_box/issues) of this repository and [file a new issue](https://github.com/jm/collapsible_intubation_box/issues/new) with your contact information, location, and how many boxes you'd need in the description.  I'm going to encourage people to look there for places to help with their needs.
 
 ### If you want to produce your own
 
 Producing your own is not terribly difficult.  The provided SVG files should load into any laser cutter or CNC with no more work than most other files.  If you have any problems, do [file an Issue](https://github.com/jm/collapsible_intubation_box/issues/new)!  After you get it all setup/loaded in, let the machine cut the pieces, snap them together, and voila!  (It may be slightly more difficult than it sounds, but trust me, not horrible!)
 
-_If you're looking to produce boxes for hospitals, check [the Issues section here](https://github.com/jm/open_intubation_box/issues) for people looking for them.  Otherwise, contact one of the many organizations who are collecting supplies for hospitals or hospitals directly for more information._
+_If you're looking to produce boxes for hospitals, check [the Issues section here](https://github.com/jm/collapsible_intubation_box/issues) for people looking for them.  Otherwise, contact one of the many organizations who are collecting supplies for hospitals or hospitals directly for more information._
 
 ## Support
  
